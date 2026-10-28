@@ -8,6 +8,12 @@ env/
 .ipynb_checkpoints/
 
 # Kõik andmed, mida ei tohi/saa reposse panna
-data/raw/
-*.csv
-*.parquet
+data/
+**/data/
+*.ff1pkl
+*.sqlite
+
+#Paroolid
+.env
+*.env
+**/.env
