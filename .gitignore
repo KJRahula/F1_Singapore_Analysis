@@ -1,0 +1,13 @@
+# Pythoni ajutised failid
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Jupyteri ajutised failid
+.ipynb_checkpoints/
+
+# Kõik andmed, mida ei tohi/saa reposse panna
+data/raw/
+*.csv
+*.parquet
