@@ -1,1 +1,3 @@
-# f1-singapore-analysis
+# F1 Singapore Analysis
+
+Author: Karl Jaan Rahula
