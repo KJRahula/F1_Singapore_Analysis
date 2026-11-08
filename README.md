@@ -8,7 +8,7 @@
 
 ## Project Context & Goals
 
-This repository contains the data science project for the Data Science course (IDS2026) focused on analyzing lap timing and telemetry data from the Formula 1 Singapore Grand Prix using the FastF1 API.
+This repository contains the data science project for the Data Science course focused on analyzing lap timing and telemetry data from the Formula 1 Singapore Grand Prix using the FastF1 API.
 
 ### Project Goals
 
